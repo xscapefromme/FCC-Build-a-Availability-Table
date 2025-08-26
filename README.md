@@ -5,6 +5,8 @@
 - Was little tricky getting the availablity legend to center with the other context but made a box within it and used display: flex. Also overlooked text-align as well.
 - probably hardest part was getting the inital table setup as I forgot abotu row/col span and that was what I needed. That was pretty much it and then a little bit on the available legend to center but that was more than FCC wanted me to do it a certain way which was pretty annoying. 
 
+<h2>Preview</h2>
+<img width="862" height="703" alt="Screenshot 2025-08-25 at 5 49 59 PM" src="https://github.com/user-attachments/assets/cdef4681-2d18-4229-bc61-38d11f16ed2d" />
 
 
 <h2>Finished (I can refine it but its just a FCC project and just praciticing and just getting the main points across as the lesson was about variables.)</h2>
